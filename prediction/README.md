@@ -1,1 +1,1 @@
-saving dai;y prediction
+saving daily prediction
